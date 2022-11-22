@@ -1,1 +1,1 @@
-# Retinal-Image-Super-Resolution-ViT-CNN
+# A Hybrid Approach for Retinal Image Super-Resolution
