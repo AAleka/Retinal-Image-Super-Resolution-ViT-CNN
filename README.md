@@ -1,5 +1,5 @@
 # Retinal-Image-Super-Resolution-ViT-CNN
-Retinal Image Super-Resolution using Vision Transformer and Convolutional Neural Network
+## Retinal Image Super-Resolution using Vision Transformer and Convolutional Neural Network
 
 1. Create anaconda environment using the following code: "conda env create -f env.yml".
 
@@ -8,6 +8,8 @@ Retinal Image Super-Resolution using Vision Transformer and Convolutional Neural
 3. Run Train.py selecting the dataset.
 
 4. Run Test.py selecting the dataset.
+
+![Screenshot](model.jpg)
 
 If you use this code, please use the following BibTeX entry.
 
